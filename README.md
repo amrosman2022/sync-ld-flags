@@ -1,4 +1,4 @@
-> This script is not officially supported by LaunchDarkly.
+> This script **is not officially supported by LaunchDarkly**.
 >
 > To sync individual flags, use the in-application [compare and copy](https://docs.launchdarkly.com/home/code/flag-compare-copy#comparing-and-copying-flag-settings-between-two-environments) functionality instead.
 
